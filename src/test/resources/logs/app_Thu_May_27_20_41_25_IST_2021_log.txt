@@ -1,0 +1,12 @@
+INFO    2021-05-27 20:41:25,119 [main] com.w2a.base.Page  - Logs started
+DEBUG   2021-05-27 20:41:28,627 [main] com.w2a.base.Page  - Chrome Launched
+DEBUG   2021-05-27 20:41:35,769 [main] com.w2a.base.Page  - Clicking on element: [[[[ChromeDriver: chrome on WINDOWS (73d9f6e2ac7aa3a6b823710be7208646)] -> css selector: nav[id='secondaryNav']]] -> xpath: //button[contains(text(),'Sign in')]]
+DEBUG   2021-05-27 20:41:39,577 [main] com.w2a.base.Page  - Clicking on element: [[ChromeDriver: chrome on WINDOWS (73d9f6e2ac7aa3a6b823710be7208646)] -> css selector: a[href*='signin?']]
+DEBUG   2021-05-27 20:41:39,842 [main] com.w2a.base.Page  - Typing in: [[ChromeDriver: chrome on WINDOWS (73d9f6e2ac7aa3a6b823710be7208646)] -> css selector: #signin-loginid] entered value as: xyz@gmail.com
+DEBUG   2021-05-27 20:41:40,015 [main] com.w2a.base.Page  - Typing in: [[ChromeDriver: chrome on WINDOWS (73d9f6e2ac7aa3a6b823710be7208646)] -> css selector: #signin-password] entered value as: abc1234
+DEBUG   2021-05-27 20:41:40,169 [main] com.w2a.base.Page  - Clicking on element: [[ChromeDriver: chrome on WINDOWS (73d9f6e2ac7aa3a6b823710be7208646)] -> css selector: #submitButton]
+DEBUG   2021-05-27 20:41:42,192 [main] freemarker.cache  - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+DEBUG   2021-05-27 20:41:42,192 [main] freemarker.cache  - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+DEBUG   2021-05-27 20:41:42,192 [main] freemarker.cache  - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+DEBUG   2021-05-27 20:41:42,193 [main] freemarker.cache  - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+DEBUG   2021-05-27 20:41:42,193 [main] freemarker.cache  - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/dhill/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"

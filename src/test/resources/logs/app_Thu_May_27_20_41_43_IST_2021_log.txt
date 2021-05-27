@@ -1,0 +1,22 @@
+INFO    2021-05-27 20:41:43,864 [main] com.w2a.base.Page  - Logs started
+DEBUG   2021-05-27 20:41:45,975 [main] com.w2a.base.Page  - Chrome Launched
+DEBUG   2021-05-27 20:41:51,209 [main] com.w2a.base.Page  - Clicking on element: [[ChromeDriver: chrome on WINDOWS (848a663f3caa3b05e0dcdd39ba6e9fe1)] -> css selector: a[aria-controls='wizard-flight-pwa']]
+DEBUG   2021-05-27 20:41:51,501 [main] com.w2a.base.Page  - Clicking on element: [[ChromeDriver: chrome on WINDOWS (848a663f3caa3b05e0dcdd39ba6e9fe1)] -> css selector: button[aria-label='Leaving from']]
+DEBUG   2021-05-27 20:41:51,667 [main] com.w2a.base.Page  - Typing in: [[ChromeDriver: chrome on WINDOWS (848a663f3caa3b05e0dcdd39ba6e9fe1)] -> css selector: input[id='location-field-leg1-origin']] entered value as: DEL
+DEBUG   2021-05-27 20:41:52,671 [main] com.w2a.base.Page  - Clicking on element: [[ChromeDriver: chrome on WINDOWS (848a663f3caa3b05e0dcdd39ba6e9fe1)] -> css selector: ul[data-stid*='leg1'] > li > button:nth-child(1)]
+DEBUG   2021-05-27 20:41:52,791 [main] com.w2a.base.Page  - Clicking on element: [[ChromeDriver: chrome on WINDOWS (848a663f3caa3b05e0dcdd39ba6e9fe1)] -> css selector: button[aria-label='Going to']]
+DEBUG   2021-05-27 20:41:52,965 [main] com.w2a.base.Page  - Typing in: [[ChromeDriver: chrome on WINDOWS (848a663f3caa3b05e0dcdd39ba6e9fe1)] -> css selector: input[id='location-field-leg1-destination']] entered value as: SEA
+DEBUG   2021-05-27 20:41:53,576 [main] com.w2a.base.Page  - Clicking on element: [[ChromeDriver: chrome on WINDOWS (848a663f3caa3b05e0dcdd39ba6e9fe1)] -> xpath: //strong[contains(text(),'Seattle (SEA')]]
+DEBUG   2021-05-27 20:41:53,821 [main] com.w2a.base.Page  - Clicking on element: [[ChromeDriver: chrome on WINDOWS (848a663f3caa3b05e0dcdd39ba6e9fe1)] -> css selector: a[data-testid*='travelers'] > svg[class*='uitk-icon-medium']]
+DEBUG   2021-05-27 20:41:54,131 [main] com.w2a.base.Page  - Clicking on element: [[ChromeDriver: chrome on WINDOWS (848a663f3caa3b05e0dcdd39ba6e9fe1)] -> css selector: svg[aria-labelledby*='increase-adults']]
+DEBUG   2021-05-27 20:41:54,273 [main] com.w2a.base.Page  - Clicking on element: [[ChromeDriver: chrome on WINDOWS (848a663f3caa3b05e0dcdd39ba6e9fe1)] -> css selector: svg[aria-labelledby*='increase-children']]
+DEBUG   2021-05-27 20:41:54,386 [main] com.w2a.base.Page  - Clicking on element: [[ChromeDriver: chrome on WINDOWS (848a663f3caa3b05e0dcdd39ba6e9fe1)] -> css selector: svg[aria-labelledby*='increase-children']]
+DEBUG   2021-05-27 20:41:54,511 [main] com.w2a.base.Page  - Clicking on element: [[ChromeDriver: chrome on WINDOWS (848a663f3caa3b05e0dcdd39ba6e9fe1)] -> css selector: svg[aria-labelledby*='increase-infants']]
+DEBUG   2021-05-27 20:41:54,621 [main] com.w2a.base.Page  - Clicking on element: [[ChromeDriver: chrome on WINDOWS (848a663f3caa3b05e0dcdd39ba6e9fe1)] -> css selector: svg[aria-labelledby*='increase-infants']]
+DEBUG   2021-05-27 20:41:54,921 [main] com.w2a.base.Page  - Clicking on element: [[ChromeDriver: chrome on WINDOWS (848a663f3caa3b05e0dcdd39ba6e9fe1)] -> css selector: button[data-testid*='guests-done']]
+DEBUG   2021-05-27 20:42:29,824 [main] com.w2a.base.Page  - Clicking on element: Proxy element for: AjaxElementLocator 'By.cssSelector: button[data-testid='submit-button']'
+DEBUG   2021-05-27 20:43:00,223 [main] freemarker.cache  - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+DEBUG   2021-05-27 20:43:00,223 [main] freemarker.cache  - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+DEBUG   2021-05-27 20:43:00,223 [main] freemarker.cache  - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+DEBUG   2021-05-27 20:43:00,223 [main] freemarker.cache  - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+DEBUG   2021-05-27 20:43:00,223 [main] freemarker.cache  - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/dhill/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"

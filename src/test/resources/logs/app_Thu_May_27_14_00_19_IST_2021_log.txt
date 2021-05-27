@@ -1,0 +1,23 @@
+INFO    2021-05-27 14:00:19,289 [main] com.w2a.base.Page  - Logs started
+DEBUG   2021-05-27 14:00:24,721 [main] com.w2a.base.Page  - Firefox Launched
+DEBUG   2021-05-27 14:00:29,709 [main] com.w2a.base.Page  - Clicking on element: [[FirefoxDriver: firefox on WINDOWS (eed371b3-9abc-4c9d-9e20-43963a87b5e1)] -> css selector: a[aria-controls='wizard-flight-pwa']]
+DEBUG   2021-05-27 14:00:30,003 [main] com.w2a.base.Page  - Clicking on element: [[FirefoxDriver: firefox on WINDOWS (eed371b3-9abc-4c9d-9e20-43963a87b5e1)] -> css selector: button[aria-label='Leaving from']]
+DEBUG   2021-05-27 14:00:30,142 [main] com.w2a.base.Page  - Typing in: [[FirefoxDriver: firefox on WINDOWS (eed371b3-9abc-4c9d-9e20-43963a87b5e1)] -> css selector: input[id='location-field-leg1-origin']] entered value as: DEL
+DEBUG   2021-05-27 14:00:31,156 [main] com.w2a.base.Page  - Clicking on element: [[FirefoxDriver: firefox on WINDOWS (eed371b3-9abc-4c9d-9e20-43963a87b5e1)] -> css selector: ul[data-stid*='leg1'] > li > button:nth-child(1)]
+DEBUG   2021-05-27 14:00:31,436 [main] com.w2a.base.Page  - Clicking on element: [[FirefoxDriver: firefox on WINDOWS (eed371b3-9abc-4c9d-9e20-43963a87b5e1)] -> css selector: button[aria-label='Going to']]
+DEBUG   2021-05-27 14:00:31,512 [main] com.w2a.base.Page  - Typing in: [[FirefoxDriver: firefox on WINDOWS (eed371b3-9abc-4c9d-9e20-43963a87b5e1)] -> css selector: input[id='location-field-leg1-destination']] entered value as: SEA
+DEBUG   2021-05-27 14:00:32,212 [main] com.w2a.base.Page  - Clicking on element: [[FirefoxDriver: firefox on WINDOWS (eed371b3-9abc-4c9d-9e20-43963a87b5e1)] -> xpath: //strong[contains(text(),'Seattle (SEA')]]
+DEBUG   2021-05-27 14:00:32,505 [main] com.w2a.base.Page  - Clicking on element: [[FirefoxDriver: firefox on WINDOWS (eed371b3-9abc-4c9d-9e20-43963a87b5e1)] -> css selector: a[data-testid*='travelers'] > svg[class*='uitk-icon-medium']]
+DEBUG   2021-05-27 14:00:32,796 [main] com.w2a.base.Page  - Clicking on element: [[FirefoxDriver: firefox on WINDOWS (eed371b3-9abc-4c9d-9e20-43963a87b5e1)] -> css selector: svg[aria-labelledby*='increase-adults']]
+DEBUG   2021-05-27 14:00:33,227 [main] com.w2a.base.Page  - Clicking on element: [[FirefoxDriver: firefox on WINDOWS (eed371b3-9abc-4c9d-9e20-43963a87b5e1)] -> css selector: svg[aria-labelledby*='increase-children']]
+DEBUG   2021-05-27 14:00:33,552 [main] com.w2a.base.Page  - Clicking on element: [[FirefoxDriver: firefox on WINDOWS (eed371b3-9abc-4c9d-9e20-43963a87b5e1)] -> css selector: svg[aria-labelledby*='increase-children']]
+DEBUG   2021-05-27 14:00:33,879 [main] com.w2a.base.Page  - Clicking on element: [[FirefoxDriver: firefox on WINDOWS (eed371b3-9abc-4c9d-9e20-43963a87b5e1)] -> css selector: svg[aria-labelledby*='increase-infants']]
+DEBUG   2021-05-27 14:00:34,222 [main] com.w2a.base.Page  - Clicking on element: [[FirefoxDriver: firefox on WINDOWS (eed371b3-9abc-4c9d-9e20-43963a87b5e1)] -> css selector: svg[aria-labelledby*='increase-infants']]
+DEBUG   2021-05-27 14:00:34,550 [main] com.w2a.base.Page  - Clicking on element: [[FirefoxDriver: firefox on WINDOWS (eed371b3-9abc-4c9d-9e20-43963a87b5e1)] -> css selector: button[data-testid*='guests-done']]
+DEBUG   2021-05-27 14:01:06,995 [main] com.w2a.base.Page  - Clicking on element: Proxy element for: AjaxElementLocator 'By.cssSelector: button[data-testid='submit-button']'
+DEBUG   2021-05-27 14:01:37,501 [main] com.w2a.base.Page  - Taking screenshot
+DEBUG   2021-05-27 14:01:37,515 [main] freemarker.cache  - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+DEBUG   2021-05-27 14:01:37,515 [main] freemarker.cache  - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+DEBUG   2021-05-27 14:01:37,515 [main] freemarker.cache  - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+DEBUG   2021-05-27 14:01:37,515 [main] freemarker.cache  - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+DEBUG   2021-05-27 14:01:37,515 [main] freemarker.cache  - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/dhill/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
