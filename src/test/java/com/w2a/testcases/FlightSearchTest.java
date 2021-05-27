@@ -30,7 +30,6 @@ public class FlightSearchTest {
 
 		home.goToFlights().bookAFlight(data.get("fromCity"),data.get("toCity"),data.get("Adults"),data.get("Children"),data.get("Infants"));
 		softAssert.assertAll();
-
 	}
 	
 	@AfterMethod
